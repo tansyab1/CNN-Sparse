@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile,join,isdir
 import numpy as np
 from matplotlib.path import Path
-# import os
+import os
 # from retangle import my_retangle
 
 def load_data_shared():
